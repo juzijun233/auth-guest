@@ -152,7 +152,7 @@ func genExe() {
 }
 
 func main() {
-	fmt.Println("===== SakuraFrp AuthPanel GuestTool =====")
+	fmt.Println("===== OrangePixel AuthPanel GuestTool =====")
 	fmt.Printf("version %s @ %s, %s\n", version, commit, date)
 
 	if u == "" || p == "" {
